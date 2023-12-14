@@ -3,3 +3,5 @@
 ### To run
 `npm i`
 `npm start`
+
+![exercise image](exercise.png)
